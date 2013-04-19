@@ -1,13 +1,15 @@
 {
 	"name": "super-human.docpad",
-	"version": "0.0.1",
+	"version": "0.0.1-1",
+	"private": true,
 	"description": "Super-Human Me. Health blog about super-foods and super-humans.",
 	"homepage": "https://github.com/MassDistributionMedia/super-human.me",
 	"keywords": [
 		"docpad-skeleton",
 		"docpad",
 		"super-huamn",
-		"health", "super-food"
+		"health",
+		"super-food"
 	],
 	"author": "MDM Inc <mike@mdm.cm> (http://mdm.cm)",
 	"maintainers": [
@@ -19,11 +21,11 @@
 	"bugs": {
 		"url": "https://github.com/MassDistributionMedia/super-human.me/issues"
 	},
-	"repository" : {
-		"type" : "git",
-		"url" : "https://github.com/MassDistributionMedia/super-human.me.git"
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MassDistributionMedia/super-human.me.git"
 	},
-	"engines" : {
+	"engines": {
 		"node": "0.8.x",
 		"npm": "1.1.x",
 		"docpad": "6.x"
