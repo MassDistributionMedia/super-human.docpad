@@ -52,6 +52,9 @@
 					<% end %>
 				</ul>
 			-->
+			<a class="pull-right social-link" href="https://www.facebook.com/SuperHumanme" title="Super-Human.me Facebook">Facebook</a>
+			&emsp;
+			<a class="pull-right social-link" href="https://twitter.com/Supe_Human_me" title="Super-Human.me Twitter">Twitter</a>
 			</div>
 		</div>
 	</div>
