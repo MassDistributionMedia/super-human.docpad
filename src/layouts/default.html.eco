@@ -42,7 +42,7 @@
 	<div class="navbar navbar-fixed-top">
 		<div class="navbar-inner">
 			<div class="container">
-				<a class="brand" href="/">Super-Human.me</a>
+				<a class="brand" href="/">Super-Human.me </a><span class="mute beta">beta</span>
 				<!--
 				<ul class="nav">
 					<% for document in @getCollection('pages').toJSON(): %>
