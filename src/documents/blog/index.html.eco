@@ -1,0 +1,14 @@
+---
+layout: default
+title: 'Blog'
+---
+
+<section class="sect">
+	<h3> <%- @document.title %> </h3>
+	<br>
+	<% for document in @getCollection('posts').toJSON(): %>
+		<li id="listed_post"> <!--<span>Date: </span> -->
+		<a class="blog-title" href="<%= document.url %>"><%= document.title %></a></li>
+	<% end %>
+	<br>
+</section>

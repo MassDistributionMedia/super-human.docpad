@@ -2,6 +2,13 @@
 # It is simply a CoffeeScript Object which is parsed by CSON
 docpadConfig = {
 
+	# Services plugin used for header tweet
+	plugins:
+	    feedr:
+	        feeds:
+	            twitter:
+	                url: "https://api.twitter.com/1/statuses/user_timeline.json?screen_name=Supe_Human_me&count=1&include_entities=true&include_rts=true"
+
 	# =================================
 	# Template Data
 	# These are variables that will be accessible via our templates

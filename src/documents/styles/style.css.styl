@@ -1,8 +1,14 @@
-a, a:link
+header a, header a:link, footer a, footer a:link
 	color #fff
 	cursor pointer
 
-a:hover
+.social-link a, .social-link a:link, .blog-title
+	color darkorange
+
+.social-link a:hover, .blog-title:hover
+	color orange
+
+header a:hover, footer a:hover
 	color greenyellow
 
 body
@@ -11,6 +17,10 @@ body
 
 .content
 	margin-bottom 33px
+	margin-top 7px
+
+.blog-title
+	font-size 17px
 
 table
 	tfoot, tbody
@@ -24,6 +34,9 @@ table
 	background #072b07
 	background rgba(7,43,7,0.8)
 	font bold 11px Helvetica,Arial,sans-serif
+
+.hero-unit
+	padding 44px 60px
 
 .hero-unit, .sect
 	background-color #FAF6ED
@@ -44,4 +57,14 @@ footer
 	float left
 
 .social-link
+	opacity .7
 	padding 7px
+
+.social-link:hover
+	opacity 1
+
+.head-tweet
+	font-weight normal
+
+.mdm
+	text-align right
