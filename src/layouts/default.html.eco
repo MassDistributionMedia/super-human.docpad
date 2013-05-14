@@ -83,13 +83,13 @@
 				&copy;2013 Super-Human.me <span class="mute">beta</span>
 			</span>
 			<span class="pull-right mdm">
-				<a href="http://massdistributionmedia.com/">A MDM Company</a>. <br/>
-				<span class="muted">last updated on <%= @site.date.toISOString() %></span>
+				<a href="http://massdistributionmedia.com/" title="<strong>Mass Distribution Media</strong>" id="mdm-popo" data-html="true"data-trigger="hover" data-content="A web design & development company based in Princeton, New Jersey, USA. Our slogan is 'New Age Web Platforms to Selected Clients.'" data-placement="top"><strong>A MDM Company</strong></a>. <br/>
+				<span title="<i class=icon-info-sign></i> <strong>Website Information</strong>" id="site_info-popo" data-html="true" data-trigger="hover" data-content="This website is designed, developed and hosted by Mass Distribution Media on a Nodejitsu server. Powered by DocPad." data-placement="top"><i class="icon-info-sign icon-white"></i>Last updated on <%= @site.date.toISOString() %></span>
 			</span>
 		</footer>
 	</div><!-- /container -->
 
 	<!-- Scripts -->
-	<%- @getBlock('scripts').add(["/vendor/jquery.js","/vendor/log.js","/vendor/modernizr.js","/scripts/script.js"]).toHTML() %>
+	<%- @getBlock('scripts').add(["/vendor/jquery.js","/vendor/twitter-bootstrap/js/bootstrap-min.js","/scripts/script.js"]).toHTML() %>
 </body>
 </html>

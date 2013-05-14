@@ -13,7 +13,21 @@ header a:hover, footer a:hover
 
 body
 	padding-top 55px
-	background url('/img/yellow-green-forest.jpg') CENTER
+	background url('/img/yellow-green-forest.jpg') center
+
+.hide
+	display none
+
+#mdm-popo
+	width 256px
+	display block
+	margin 0 0 -16px 0
+
+li
+	list-style none
+
+.block
+	display block
 
 .content
 	margin-bottom 33px
@@ -49,7 +63,10 @@ table
 	margin-bottom 13px
 
 .sect
-	width: 433px;
+	width 433px
+
+.home-sect h2 i
+	margin 7px 0 0 0
 
 footer
 	color #fff
@@ -70,3 +87,40 @@ footer
 
 .mdm
 	text-align right
+.clear 
+	clear both
+
+.comments input, .comments textarea
+	width 100%
+
+.social-buttons
+	position fixed
+	top 111px
+	left 1px
+	width 81px
+
+.close-header
+	position fixed
+	top 7px
+	right 15px
+	z-index 1031
+
+::-moz-selection
+	background rgba(7,43,7,0.8)
+	color orange
+	text-shadow none
+::selection
+	background rgba(7,43,7,0.8)
+	color orange
+	text-shadow none
+
+::-webkit-scrollbar
+	width 17px
+	background rgb(7,43,7)
+::-webkit-scrollbar-track
+	-webkit-box-shadow:inset 0 0 6px rgb(7,43,7)
+::-webkit-scrollbar-thumb
+	background rgb(102,51,0)
+	-webkit-box-shadow:inset 0 0 6px rgb(7,43,7)
+::-webkit-scrollbar-thumb:window-inactive
+	background rgb(101,55,3)

@@ -2,6 +2,8 @@
 title: Are you super-human?
 layout: post
 tags: ['intro','post', 'super-human', 'super-food', 'health', 'wellness']
+icons: ['headphones','file'] 
+popovers: ['A article discussing the definition of super, images of Super-Human and the choice it takes to become Super-Human. By Michael D Mooring']
 ---
 By: Michael D Mooring
 
