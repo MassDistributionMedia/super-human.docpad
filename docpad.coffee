@@ -24,8 +24,8 @@ docpadConfig = {
 			services:
 				facebookLikeButton:
 					applicationId: '183878501765628'
-				twitterTweetButton: 'Supe_Human_me'
-				twitterFollowButton: 'Supe_Human_me'
+				twitterTweetButton: 'Super_Human_me'
+				twitterFollowButton: 'Super_Human_me'
 
 			# Here are some old site urls that you would like to redirect from
 			oldUrls: [
