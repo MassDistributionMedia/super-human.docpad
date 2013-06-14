@@ -11,7 +11,7 @@ layout: default
 		<%- @getTwitterTweetButton() %>
 	</span>
 	<hr/>
-	<%- @getCommentsBlock() %>
+	<%- @getFacebookComments('914') %>
 </article>
 
 <footer>

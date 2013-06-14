@@ -1,6 +1,6 @@
 {
 	"name": "super-human.docpad",
-	"version": "0.0.1-23",
+	"version": "0.0.1-25",
 	"private": true,
 	"description": "Super-Human Me. Health blog about super-foods and super-humans.",
 	"homepage": "https://github.com/MassDistributionMedia/super-human.me",
@@ -41,7 +41,7 @@
 		"docpad-plugin-stylus": "2.x",
 		"docpad-plugin-text": "2.x",
 		"docpad-plugin-feedr": "2.x",
-		"docpad-plugin-nativecomments": "2.x",
+		"docpad-plugin-facebookcomments": "2.x",
 		"docpad-plugin-services": "2.x",
 		"moment": "2.x"
 	},
