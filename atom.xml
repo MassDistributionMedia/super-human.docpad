@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Super Human Me</title>
+	<link href="http://super-human.me/atom.xml" rel="self"/>
+	<link href="http://super-human.me"/>
+	<updated>2013-08-03T07:20:37.438Z</updated>
+	<id>http://super-human.me</id>
+	<author>
+		<name>Michael Mooring</name>
+		<email>mike@mdm.cm</email>
+	</author>
+
+	
+		<entry>
+			<title>Talia Fuhrman Interview</title>
+			<link href="http://super-human.me//posts/talia-fuhrman_interview"/>
+			<updated>2013-06-14T18:03:54.000Z</updated>
+			<id>http://super-human.me//posts/talia-fuhrman_interview</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Talia Fuhrman Interview | Super Human Me&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Super-Human Me. Health blog about super-foods and super-humans.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;Health, super-human, super-foods, super-food&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Michael Mooring&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.47.0&quot;/&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;ico/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;ico/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;ico/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;ico/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;ico/apple-touch-icon-57-precomposed.png&quot;&gt;
+    --&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/twitter-bootstrap/css/bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/twitter-bootstrap/css/bootstrap-responsive.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;!-- Markup --&gt;
+	&lt;span class=&quot;btn close-header hide&quot;&gt;&lt;i class=&quot; icon-remove-circle&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+	&lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
+		&lt;div class=&quot;navbar-inner&quot;&gt;
+			&lt;div class=&quot;container&quot;&gt;
+				&lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;Super-Human.me &lt;/a&gt;&lt;span class=&quot;mute beta&quot;&gt;beta&lt;/span&gt;
+				&lt;!--
+				&lt;ul class=&quot;nav&quot;&gt;
+					
+				&lt;/ul&gt;
+			--&gt;
+			&lt;!-- Twitter Facebook links --&gt;
+			&lt;a class=&quot;pull-right social-link&quot; href=&quot;https://www.facebook.com/SuperHumanme&quot; title=&quot;Super-Human.me Facebook&quot; target=&quot;_blank&quot;&gt;Facebook&lt;/a&gt;
+			&lt;a class=&quot;pull-right social-link&quot; href=&quot;https://twitter.com/Supe_Human_me&quot; title=&quot;Super-Human.me Twitter&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt;
+			&lt;span id=&quot;tweet&quot; class=&quot;pull-right social-link head-tweet&quot;&gt;
+                
+            &lt;/span&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+	&lt;h1&gt;Talia Fuhrman Interview&lt;/h1&gt;
+	&lt;div class=&quot;post-content&quot;&gt;By: Michael D Mooring
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F90898372&amp;amp;color=ff6600&amp;amp;auto_play=false&amp;amp;show_artwork=true&quot;&gt;&lt;/iframe&gt; &lt;br/&gt;&lt;br/&gt;
+
+&lt;img class=&quot;pull-left&quot; style=&quot;width: 174px;padding: 7px;&quot;src=&quot;/img/talia-fuhrman.jpg&quot;alt=&quot;Tali Fuhrman&quot;/&gt;I had the pleasure to interview Talia Fuhrman last week where we talked about her childhood growing up as the daughter of Joel Fuhrnman, author of 'Eat to Live' and appearing on 'Fat, Sick and nearly Dead' and a few other documentaries. We talk about the modern movement in America towards healthier living and a little about Talia's new book coming out in a year.&lt;br/&gt;&lt;br/&gt;
+
+Check out Talia's health website here:&lt;br/&gt;
+&lt;a href=&quot;http://taliafuhrman.com/&quot;&gt;http://TaliaFuhrman.com/ &lt;i class=&quot;icon-share&quot;&gt;&lt;/i&gt;&lt;/a&gt; &lt;br/&gt;
+
+&lt;hr/&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
+Also check out Dr.Fuhrman's Best Seller: &lt;br/&gt;
+&lt;iframe src=&quot;http://rcm.amazon.com/e/cm?t=lef4deatou-20&amp;o=1&amp;p=8&amp;l=as1&amp;asins=031612091X&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=transparent&amp;bg1=transparent&amp;npa=1&amp;f=ifr&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+&lt;br/&gt;&lt;br/&gt;
+
+And lastly, the MUST WATCH documentary, &quot;Fat, Sick and Nearly Dead.&quot; You won't want to miss it.&lt;br/&gt;
+&lt;iframe src=&quot;http://rcm.amazon.com/e/cm?t=lef4deatou-20&amp;o=1&amp;p=8&amp;l=as1&amp;asins=B004V4ASB2&amp;ref=tf_til&amp;fc1=000000&amp;IS2=1&amp;lt1=_blank&amp;m=amazon&amp;lc1=0000FF&amp;bc1=transparent&amp;bg1=transparent&amp;npa=1&amp;f=ifr&quot; style=&quot;width:120px;height:240px;&quot; scrolling=&quot;no&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt; &lt;br/&gt;&lt;br/&gt;
+
+
+ Enjoy! &lt;br/&gt;
+
+ &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt;
+
+ &lt;br/&gt;&lt;/div&gt;
+	&lt;span class=&quot;social-buttons&quot;&gt;
+		&lt;div class=&quot;google-plus-one-button social-button&quot;&gt;
+	&lt;div class=&quot;g-plusone&quot; data-size=&quot;medium&quot; data-href=&quot;http%3A//super-human.me/posts/talia-fuhrman_interview&quot;&gt;&lt;/div&gt;
+	&lt;script&gt;
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	&lt;/script&gt;
+&lt;/div&gt;
+		&lt;div class=&quot;facebook-like-button social-button&quot;&gt;
+	&lt;iframe src=&quot;//www.facebook.com/plugins/like.php?href=http%3A//super-human.me/posts/talia-fuhrman_interview&amp;amp;send=false&amp;amp;layout=button_count&amp;amp;width=450&amp;amp;show_faces=false&amp;amp;font&amp;amp;colorscheme=light&amp;amp;action=like&amp;amp;height=21&amp;amp;appId=183878501765628&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;border:none; overflow:hidden; width:450px; height:21px;&quot; allowTransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+		&lt;div class=&quot;twitter-tweet-button social-button&quot;&gt;
+	&lt;a href=&quot;https://twitter.com/share&quot; class=&quot;twitter-share-button&quot; data-via=&quot;Super_Human_me&quot; data-related=&quot;Super_Human_me&quot;&gt;Tweet&lt;/a&gt;
+	&lt;script&gt;!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=&quot;//platform.twitter.com/widgets.js&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&quot;script&quot;,&quot;twitter-wjs&quot;);&lt;/script&gt;
+&lt;/div&gt;
+	&lt;/span&gt;
+	&lt;hr/&gt;
+	&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = &quot;//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=266367676718271&quot;;
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;
+&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://super-human.me/posts/talia-fuhrman_interview&quot; data-width=&quot;914&quot; data-num-posts=&quot;10&quot; data-colorscheme=&quot;light&quot; data-order-by=&quot;social&quot;&gt;&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;footer&gt;
+	
+&lt;/footer&gt;
+		&lt;/section&gt;
+		&lt;footer&gt;
+			&lt;span class=&quot;pull-left&quot;&gt;
+				&lt;script data-cfbadgetype=&quot;f&quot; data-cfbadgeskin=&quot;icon&quot; type=&quot;text/javascript&quot;&gt;
+					//&lt;![CDATA[
+					try{window.CloudFlare||function(){var a=window.document,b=a.createElement(&quot;script&quot;),a=a.getElementsByTagName(&quot;script&quot;)[0];window.CloudFlare=[];b.type=&quot;text/javascript&quot;;b.async=!0;b.src=&quot;//ajax.cloudflare.com/cdn-cgi/nexp/cloudflare.js&quot;;a.parentNode.insertBefore(b,a)}(),CloudFlare.push(function(a){a([&quot;cloudflare/badge&quot;])})}catch(e$$5){try{console.error(&quot;CloudFlare badge code could not be loaded. &quot;+e$$5.message)}catch(e$$6){}};
+					//]]&gt;
+				&lt;/script&gt;
+				&amp;copy;2013 Super-Human.me &lt;span class=&quot;mute&quot;&gt;beta&lt;/span&gt;
+			&lt;/span&gt;
+			&lt;span class=&quot;pull-right mdm&quot;&gt;
+				&lt;a href=&quot;http://massdistributionmedia.com/&quot; title=&quot;&lt;strong&gt;Mass Distribution Media&lt;/strong&gt;&quot; id=&quot;mdm-popo&quot; data-html=&quot;true&quot;data-trigger=&quot;hover&quot; data-content=&quot;A web design &amp; development company based in Princeton, New Jersey, USA. Our slogan is 'New Age Web Platforms to Selected Clients.'&quot; data-placement=&quot;top&quot;&gt;&lt;strong&gt;A MDM Company&lt;/strong&gt;&lt;/a&gt;. &lt;br/&gt;
+				&lt;span title=&quot;&lt;i class=icon-info-sign&gt;&lt;/i&gt; &lt;strong&gt;Website Information&lt;/strong&gt;&quot; id=&quot;site_info-popo&quot; data-html=&quot;true&quot; data-trigger=&quot;hover&quot; data-content=&quot;This website is designed, developed and hosted by Mass Distribution Media on a Nodejitsu server. Powered by DocPad.&quot; data-placement=&quot;top&quot;&gt;&lt;i class=&quot;icon-info-sign icon-white&quot;&gt;&lt;/i&gt; Last updated on 2013-08-03T07:20:37.438Z&lt;/span&gt;
+			&lt;/span&gt;
+		&lt;/footer&gt;
+	&lt;/div&gt;&lt;!-- /container --&gt;
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/twitter-bootstrap/js/bootstrap-min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Cocoa &amp; Cinnamon Peanut Butter</title>
+			<link href="http://super-human.me//posts/cocoa-cinaamon-peanut-butter-sandwich_recipe"/>
+			<updated>2013-06-14T18:00:42.000Z</updated>
+			<id>http://super-human.me//posts/cocoa-cinaamon-peanut-butter-sandwich_recipe</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Cocoa &amp;amp; Cinnamon Peanut Butter | Super Human Me&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Super-Human Me. Health blog about super-foods and super-humans.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;Health, super-human, super-foods, super-food&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Michael Mooring&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.47.0&quot;/&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;ico/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;ico/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;ico/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;ico/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;ico/apple-touch-icon-57-precomposed.png&quot;&gt;
+    --&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/twitter-bootstrap/css/bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/twitter-bootstrap/css/bootstrap-responsive.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;!-- Markup --&gt;
+	&lt;span class=&quot;btn close-header hide&quot;&gt;&lt;i class=&quot; icon-remove-circle&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+	&lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
+		&lt;div class=&quot;navbar-inner&quot;&gt;
+			&lt;div class=&quot;container&quot;&gt;
+				&lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;Super-Human.me &lt;/a&gt;&lt;span class=&quot;mute beta&quot;&gt;beta&lt;/span&gt;
+				&lt;!--
+				&lt;ul class=&quot;nav&quot;&gt;
+					
+				&lt;/ul&gt;
+			--&gt;
+			&lt;!-- Twitter Facebook links --&gt;
+			&lt;a class=&quot;pull-right social-link&quot; href=&quot;https://www.facebook.com/SuperHumanme&quot; title=&quot;Super-Human.me Facebook&quot; target=&quot;_blank&quot;&gt;Facebook&lt;/a&gt;
+			&lt;a class=&quot;pull-right social-link&quot; href=&quot;https://twitter.com/Supe_Human_me&quot; title=&quot;Super-Human.me Twitter&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt;
+			&lt;span id=&quot;tweet&quot; class=&quot;pull-right social-link head-tweet&quot;&gt;
+                
+            &lt;/span&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+	&lt;h1&gt;Cocoa &amp;amp; Cinnamon Peanut Butter&lt;/h1&gt;
+	&lt;div class=&quot;post-content&quot;&gt;By: Michael D Mooring
+
+&lt;br/&gt;&lt;br/&gt;
+
+&lt;img src=&quot;https://googledrive.com/host/0B9LVk4xbDIJTbHFtSXJRcUVEbUE/peanut-butter-cocoa-cinnamon.jpg&quot; alt=&quot;Picture of Cocoa &amp; Cinnamon Peanut Butter Sandwich&quot;/&gt;
+
+&lt;br/&gt;
+
+&lt;h2&gt;Homemade Gatorade Recipie&lt;/h2&gt;
+
+&lt;br/&gt;
+
+ - One slice of bread.&lt;br/&gt;
+ - One application of (preferably chunky for this recipe) peanute butter. &lt;sub&gt; If your alergic to eanut butter you may want to check out this article: &lt;a href=&quot;http://greatist.com/health/healthy-alternatives-peanut-butter&quot;&gt;http://greatist.com/health/healthy-alternatives-peanut-butter&lt;/a&gt; and you'll find you have many nice alternatives like Hazelnut, Pecan, Almond and even Coconut.&lt;/sub&gt;&lt;br/&gt;
+ - A couple pinches of cinnamon powder. &lt;br/&gt;
+ - A could pinch/sprinkles of cocoa nibs&lt;/br&gt;
+ - One glass of soy milk! &lt;/br&gt;
+
+&lt;br/&gt;&lt;br/&gt;
+
+That's it! The cocoa nibs have a interesting union with the cinnamon powerder taste and the nibs add a extra crunch as well!
+
+&lt;br/&gt;&lt;/div&gt;
+	&lt;span class=&quot;social-buttons&quot;&gt;
+		&lt;div class=&quot;google-plus-one-button social-button&quot;&gt;
+	&lt;div class=&quot;g-plusone&quot; data-size=&quot;medium&quot; data-href=&quot;http%3A//super-human.me/posts/cocoa-cinaamon-peanut-butter-sandwich_recipe&quot;&gt;&lt;/div&gt;
+	&lt;script&gt;
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	&lt;/script&gt;
+&lt;/div&gt;
+		&lt;div class=&quot;facebook-like-button social-button&quot;&gt;
+	&lt;iframe src=&quot;//www.facebook.com/plugins/like.php?href=http%3A//super-human.me/posts/cocoa-cinaamon-peanut-butter-sandwich_recipe&amp;amp;send=false&amp;amp;layout=button_count&amp;amp;width=450&amp;amp;show_faces=false&amp;amp;font&amp;amp;colorscheme=light&amp;amp;action=like&amp;amp;height=21&amp;amp;appId=183878501765628&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;border:none; overflow:hidden; width:450px; height:21px;&quot; allowTransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+		&lt;div class=&quot;twitter-tweet-button social-button&quot;&gt;
+	&lt;a href=&quot;https://twitter.com/share&quot; class=&quot;twitter-share-button&quot; data-via=&quot;Super_Human_me&quot; data-related=&quot;Super_Human_me&quot;&gt;Tweet&lt;/a&gt;
+	&lt;script&gt;!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=&quot;//platform.twitter.com/widgets.js&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&quot;script&quot;,&quot;twitter-wjs&quot;);&lt;/script&gt;
+&lt;/div&gt;
+	&lt;/span&gt;
+	&lt;hr/&gt;
+	&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = &quot;//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=266367676718271&quot;;
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;
+&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://super-human.me/posts/cocoa-cinaamon-peanut-butter-sandwich_recipe&quot; data-width=&quot;914&quot; data-num-posts=&quot;10&quot; data-colorscheme=&quot;light&quot; data-order-by=&quot;social&quot;&gt;&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;footer&gt;
+	
+&lt;/footer&gt;
+		&lt;/section&gt;
+		&lt;footer&gt;
+			&lt;span class=&quot;pull-left&quot;&gt;
+				&lt;script data-cfbadgetype=&quot;f&quot; data-cfbadgeskin=&quot;icon&quot; type=&quot;text/javascript&quot;&gt;
+					//&lt;![CDATA[
+					try{window.CloudFlare||function(){var a=window.document,b=a.createElement(&quot;script&quot;),a=a.getElementsByTagName(&quot;script&quot;)[0];window.CloudFlare=[];b.type=&quot;text/javascript&quot;;b.async=!0;b.src=&quot;//ajax.cloudflare.com/cdn-cgi/nexp/cloudflare.js&quot;;a.parentNode.insertBefore(b,a)}(),CloudFlare.push(function(a){a([&quot;cloudflare/badge&quot;])})}catch(e$$5){try{console.error(&quot;CloudFlare badge code could not be loaded. &quot;+e$$5.message)}catch(e$$6){}};
+					//]]&gt;
+				&lt;/script&gt;
+				&amp;copy;2013 Super-Human.me &lt;span class=&quot;mute&quot;&gt;beta&lt;/span&gt;
+			&lt;/span&gt;
+			&lt;span class=&quot;pull-right mdm&quot;&gt;
+				&lt;a href=&quot;http://massdistributionmedia.com/&quot; title=&quot;&lt;strong&gt;Mass Distribution Media&lt;/strong&gt;&quot; id=&quot;mdm-popo&quot; data-html=&quot;true&quot;data-trigger=&quot;hover&quot; data-content=&quot;A web design &amp; development company based in Princeton, New Jersey, USA. Our slogan is 'New Age Web Platforms to Selected Clients.'&quot; data-placement=&quot;top&quot;&gt;&lt;strong&gt;A MDM Company&lt;/strong&gt;&lt;/a&gt;. &lt;br/&gt;
+				&lt;span title=&quot;&lt;i class=icon-info-sign&gt;&lt;/i&gt; &lt;strong&gt;Website Information&lt;/strong&gt;&quot; id=&quot;site_info-popo&quot; data-html=&quot;true&quot; data-trigger=&quot;hover&quot; data-content=&quot;This website is designed, developed and hosted by Mass Distribution Media on a Nodejitsu server. Powered by DocPad.&quot; data-placement=&quot;top&quot;&gt;&lt;i class=&quot;icon-info-sign icon-white&quot;&gt;&lt;/i&gt; Last updated on 2013-08-03T07:20:37.438Z&lt;/span&gt;
+			&lt;/span&gt;
+		&lt;/footer&gt;
+	&lt;/div&gt;&lt;!-- /container --&gt;
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/twitter-bootstrap/js/bootstrap-min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Homemade Gatorade</title>
+			<link href="http://super-human.me//posts/homemade-gatorade_recipe"/>
+			<updated>2013-06-14T17:44:45.000Z</updated>
+			<id>http://super-human.me//posts/homemade-gatorade_recipe</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Homemade Gatorade | Super Human Me&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Super-Human Me. Health blog about super-foods and super-humans.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;Health, super-human, super-foods, super-food&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Michael Mooring&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.47.0&quot;/&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;ico/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;ico/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;ico/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;ico/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;ico/apple-touch-icon-57-precomposed.png&quot;&gt;
+    --&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/twitter-bootstrap/css/bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/twitter-bootstrap/css/bootstrap-responsive.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;!-- Markup --&gt;
+	&lt;span class=&quot;btn close-header hide&quot;&gt;&lt;i class=&quot; icon-remove-circle&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+	&lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
+		&lt;div class=&quot;navbar-inner&quot;&gt;
+			&lt;div class=&quot;container&quot;&gt;
+				&lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;Super-Human.me &lt;/a&gt;&lt;span class=&quot;mute beta&quot;&gt;beta&lt;/span&gt;
+				&lt;!--
+				&lt;ul class=&quot;nav&quot;&gt;
+					
+				&lt;/ul&gt;
+			--&gt;
+			&lt;!-- Twitter Facebook links --&gt;
+			&lt;a class=&quot;pull-right social-link&quot; href=&quot;https://www.facebook.com/SuperHumanme&quot; title=&quot;Super-Human.me Facebook&quot; target=&quot;_blank&quot;&gt;Facebook&lt;/a&gt;
+			&lt;a class=&quot;pull-right social-link&quot; href=&quot;https://twitter.com/Supe_Human_me&quot; title=&quot;Super-Human.me Twitter&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt;
+			&lt;span id=&quot;tweet&quot; class=&quot;pull-right social-link head-tweet&quot;&gt;
+                
+            &lt;/span&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+	&lt;h1&gt;Homemade Gatorade&lt;/h1&gt;
+	&lt;div class=&quot;post-content&quot;&gt;By: Michael D Mooring
+
+&lt;br/&gt;
+
+&lt;img src=&quot;https://googledrive.com/host/0B9LVk4xbDIJTbHFtSXJRcUVEbUE/homemade-gatorade.jpg&quot; alt=&quot;Picture of homepage Gatorade&quot;/&gt;
+
+&lt;br/&gt;
+
+&lt;h2&gt;Homemade Gatorade Recipie&lt;/h2&gt;
+
+&lt;br/&gt;
+
+ - A whole or half a lime (personal preference and quality of lime). Use the image above to measure the size of your lime in proportion to the one glass.&lt;br/&gt;
+ - One glass of water (preferrably filtered via &lt;a href=&quot;http://www.amazon.com/gp/product/B005LJ8EXU/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B005LJ8EXU&amp;linkCode=as2&amp;tag=lef4deatou-20&quot; title=&quot;iSpring 75GPD 6-Stage Reverse Osmosis Alkaline Mineral Water Filter System&quot; target=&quot;_blank&quot;&gt;reverse osmomsis&lt;/a&gt; to get the floride ect... out).
+
+&lt;br/&gt;&lt;br/&gt;
+
+That's it! It takes and looks like original Gatorade. Wonder where they got the idea from?...
+
+&lt;br/&gt;&lt;/div&gt;
+	&lt;span class=&quot;social-buttons&quot;&gt;
+		&lt;div class=&quot;google-plus-one-button social-button&quot;&gt;
+	&lt;div class=&quot;g-plusone&quot; data-size=&quot;medium&quot; data-href=&quot;http%3A//super-human.me/posts/homemade-gatorade_recipe&quot;&gt;&lt;/div&gt;
+	&lt;script&gt;
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	&lt;/script&gt;
+&lt;/div&gt;
+		&lt;div class=&quot;facebook-like-button social-button&quot;&gt;
+	&lt;iframe src=&quot;//www.facebook.com/plugins/like.php?href=http%3A//super-human.me/posts/homemade-gatorade_recipe&amp;amp;send=false&amp;amp;layout=button_count&amp;amp;width=450&amp;amp;show_faces=false&amp;amp;font&amp;amp;colorscheme=light&amp;amp;action=like&amp;amp;height=21&amp;amp;appId=183878501765628&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;border:none; overflow:hidden; width:450px; height:21px;&quot; allowTransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+		&lt;div class=&quot;twitter-tweet-button social-button&quot;&gt;
+	&lt;a href=&quot;https://twitter.com/share&quot; class=&quot;twitter-share-button&quot; data-via=&quot;Super_Human_me&quot; data-related=&quot;Super_Human_me&quot;&gt;Tweet&lt;/a&gt;
+	&lt;script&gt;!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=&quot;//platform.twitter.com/widgets.js&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&quot;script&quot;,&quot;twitter-wjs&quot;);&lt;/script&gt;
+&lt;/div&gt;
+	&lt;/span&gt;
+	&lt;hr/&gt;
+	&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = &quot;//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=266367676718271&quot;;
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;
+&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://super-human.me/posts/homemade-gatorade_recipe&quot; data-width=&quot;914&quot; data-num-posts=&quot;10&quot; data-colorscheme=&quot;light&quot; data-order-by=&quot;social&quot;&gt;&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;footer&gt;
+	
+&lt;/footer&gt;
+		&lt;/section&gt;
+		&lt;footer&gt;
+			&lt;span class=&quot;pull-left&quot;&gt;
+				&lt;script data-cfbadgetype=&quot;f&quot; data-cfbadgeskin=&quot;icon&quot; type=&quot;text/javascript&quot;&gt;
+					//&lt;![CDATA[
+					try{window.CloudFlare||function(){var a=window.document,b=a.createElement(&quot;script&quot;),a=a.getElementsByTagName(&quot;script&quot;)[0];window.CloudFlare=[];b.type=&quot;text/javascript&quot;;b.async=!0;b.src=&quot;//ajax.cloudflare.com/cdn-cgi/nexp/cloudflare.js&quot;;a.parentNode.insertBefore(b,a)}(),CloudFlare.push(function(a){a([&quot;cloudflare/badge&quot;])})}catch(e$$5){try{console.error(&quot;CloudFlare badge code could not be loaded. &quot;+e$$5.message)}catch(e$$6){}};
+					//]]&gt;
+				&lt;/script&gt;
+				&amp;copy;2013 Super-Human.me &lt;span class=&quot;mute&quot;&gt;beta&lt;/span&gt;
+			&lt;/span&gt;
+			&lt;span class=&quot;pull-right mdm&quot;&gt;
+				&lt;a href=&quot;http://massdistributionmedia.com/&quot; title=&quot;&lt;strong&gt;Mass Distribution Media&lt;/strong&gt;&quot; id=&quot;mdm-popo&quot; data-html=&quot;true&quot;data-trigger=&quot;hover&quot; data-content=&quot;A web design &amp; development company based in Princeton, New Jersey, USA. Our slogan is 'New Age Web Platforms to Selected Clients.'&quot; data-placement=&quot;top&quot;&gt;&lt;strong&gt;A MDM Company&lt;/strong&gt;&lt;/a&gt;. &lt;br/&gt;
+				&lt;span title=&quot;&lt;i class=icon-info-sign&gt;&lt;/i&gt; &lt;strong&gt;Website Information&lt;/strong&gt;&quot; id=&quot;site_info-popo&quot; data-html=&quot;true&quot; data-trigger=&quot;hover&quot; data-content=&quot;This website is designed, developed and hosted by Mass Distribution Media on a Nodejitsu server. Powered by DocPad.&quot; data-placement=&quot;top&quot;&gt;&lt;i class=&quot;icon-info-sign icon-white&quot;&gt;&lt;/i&gt; Last updated on 2013-08-03T07:20:37.438Z&lt;/span&gt;
+			&lt;/span&gt;
+		&lt;/footer&gt;
+	&lt;/div&gt;&lt;!-- /container --&gt;
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/twitter-bootstrap/js/bootstrap-min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+		<entry>
+			<title>Are you super-human?</title>
+			<link href="http://super-human.me//posts/are_you_super-human"/>
+			<updated>2013-05-14T19:35:22.000Z</updated>
+			<id>http://super-human.me//posts/are_you_super-human</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+	&lt;!-- Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
+
+	&lt;!-- Use the .htaccess and remove these lines to avoid edge case issues.
+	   More info: h5bp.com/i/378 --&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+
+	&lt;!-- Our site title and description --&gt;
+	&lt;title&gt;Are you super-human? | Super Human Me&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;Super-Human Me. Health blog about super-foods and super-humans.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;Health, super-human, super-foods, super-food&quot; /&gt;
+	&lt;meta name=&quot;author&quot; content=&quot;Michael Mooring&quot; /&gt;
+
+	&lt;!-- Output DocPad produced meta elements --&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.47.0&quot;/&gt;
+
+	&lt;!-- Mobile viewport optimized: h5bp.com/viewport --&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+
+	&lt;!-- Icons
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;ico/favicon.ico&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;ico/apple-touch-icon-144-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;ico/apple-touch-icon-114-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;ico/apple-touch-icon-72-precomposed.png&quot;&gt;
+    &lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;ico/apple-touch-icon-57-precomposed.png&quot;&gt;
+    --&gt;
+
+	&lt;!-- Shims: IE6-8 support of HTML5 elements --&gt;
+	&lt;!--[if lt IE 9]&gt;
+		&lt;script async src=&quot;http://html5shim.googlecode.com/svn/trunk/html5.js&quot;&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- Styles --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/twitter-bootstrap/css/bootstrap.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/vendor/twitter-bootstrap/css/bootstrap-responsive.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+	&lt;!-- Markup --&gt;
+	&lt;span class=&quot;btn close-header hide&quot;&gt;&lt;i class=&quot; icon-remove-circle&quot;&gt;&lt;/i&gt;&lt;/span&gt;
+	&lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
+		&lt;div class=&quot;navbar-inner&quot;&gt;
+			&lt;div class=&quot;container&quot;&gt;
+				&lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;Super-Human.me &lt;/a&gt;&lt;span class=&quot;mute beta&quot;&gt;beta&lt;/span&gt;
+				&lt;!--
+				&lt;ul class=&quot;nav&quot;&gt;
+					
+				&lt;/ul&gt;
+			--&gt;
+			&lt;!-- Twitter Facebook links --&gt;
+			&lt;a class=&quot;pull-right social-link&quot; href=&quot;https://www.facebook.com/SuperHumanme&quot; title=&quot;Super-Human.me Facebook&quot; target=&quot;_blank&quot;&gt;Facebook&lt;/a&gt;
+			&lt;a class=&quot;pull-right social-link&quot; href=&quot;https://twitter.com/Supe_Human_me&quot; title=&quot;Super-Human.me Twitter&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt;
+			&lt;span id=&quot;tweet&quot; class=&quot;pull-right social-link head-tweet&quot;&gt;
+                
+            &lt;/span&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;container&quot;&gt;
+		&lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
+			&lt;article id=&quot;post&quot; class=&quot;post&quot;&gt;
+	&lt;h1&gt;Are you super-human?&lt;/h1&gt;
+	&lt;div class=&quot;post-content&quot;&gt;&lt;p&gt;By: Michael D Mooring&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F88742975&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;To answer that we have to first define the word &amp;quot;super&amp;quot;. &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;su·per&lt;br&gt;/ˈso͞opər/&lt;br&gt;Adjective&lt;br&gt;Very good or pleasant; excellent: &amp;quot;Julie was a super girl&amp;quot;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;That is a little vauge but we can use it. &amp;quot;Very good&amp;quot; as in &amp;quot;You did a super job.&amp;quot;, meaning &amp;quot;You did a very good job.&amp;quot; I&amp;#39;d say that&amp;#39;s a pretty nice compliment. Pleasant, &amp;quot;You are pleasant to be with.&amp;quot;, another good one to hear. Lastly, excellent. When I hear the word excellent it sounds similar phonically to accel, like accelerating, speeding up. The traditional understanding of the word excel means to surpass consistenty at something and to always be getting better at it. As if it came natural to you and you did it with ease, &amp;quot;Your a natural at this&amp;quot;. It&amp;#39;s a word that feels like it&amp;#39;s describing a bullet-fast motion like a beam of light shooting out across the universe and never slowing down. &amp;quot;It&amp;#39;s a bird. It&amp;#39;s a plane. It&amp;#39;s you.&amp;quot; &lt;/p&gt;
+&lt;p&gt;You&amp;#39;ve been super before. Your super right now for reading this article about being super and inside of you is kinetic super-energy waiting to be used for good. Not just plain good though remember, super is very good. So what makes you super? What are you super at? What activates your super-human inside? Well if you are indeed a human, then a prerequisite and foundation is your health. You can&amp;#39;t be your super-self without your health. Let&amp;#39;s use a fictional example of a image of extremely poor health, a zombie. They are slow, can&amp;#39;t think at all and they get hacked down by the hundreds as a burden. Opposite on the spectrum, a image of fictional perfect health is Superman or Superwoman. They are &amp;quot;very good&amp;quot; about their intentions. They are pleasant kind people to interect with and most of all, they are excellent! They are fast, strong, couragous and confident in themselves. &lt;/p&gt;
+&lt;p&gt;Now can you see Superman sitting down eating a greesy Big Mac? I mean I think he could survive it of course but the image isn&amp;#39;t fitting. What about the zombie, can you see a zombie eatting a rotten cheesburger? The zombie/burger image is much more fitting. Superman is better fitted drinking something like &lt;a href=&quot;http://en.wikipedia.org/wiki/Ambrosia&quot;&gt;abrosia&lt;/a&gt;, &amp;quot;the nectar of the gods&amp;quot;, which is thought to be honey. Certain quality honeys are considered super-foods. The following is from: &lt;a href=&quot;http://apitherapy.blogspot.com/2012/01/beekeepers-have-low-incidence-of-cancer.html&quot;&gt;http://apitherapy.blogspot.com/2012/01/beekeepers-have-low-incidence-of-cancer.html&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Till date, no study has faulted the fact that beekeepers have very low, almost negligible incidence of cancer worldwide. Due to the weight of this fact and coupled with his experience, John Anderson, Professor of beekeeping, University of Aberdeen, unequivocally declared: “Keep bees and eat honey if you want to live long. Beekeepers live longer than anyone else”.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Wait, back up a little, &amp;quot;What&amp;#39;s a super-food&amp;quot;? There is no legal definition for the word but &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The Oxford English Dictionary[4] includes citations for superfood in the general sense of &amp;quot;a food considered especially nutritious or otherwise beneficial to health and well-being,&amp;quot; dating from 1915 &amp;amp; 1949
+&lt;a href=&quot;http://en.wikipedia.org/wiki/Superfood&quot;&gt;http://en.wikipedia.org/wiki/Superfood&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;quot;Especially&amp;quot;, phonically kind of sounds like &lt;a href=&quot;http://en.wikipedia.org/wiki/Spanglish&quot;&gt;Spanglish&lt;/a&gt; for the word special. So then these super-foods are special. They stand out. They are just really really healthy for you. These are the foods Superman would eat if he had to eat. Granted the term has been hyped as a new marketing tool, the classic super-foods as described by &lt;a href=&quot;http://en.wikipedia.org/wiki/David_Wolfe_(raw_foodist&quot;&gt;David Wolfe (raw foodiest)&lt;/a&gt;) are still very much special:&lt;/p&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/GRW06fGPHPE&quot; frameborder=&quot;0&quot; allowfullscreen style=&quot;margin: 13px 255px;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;So is it really as simple as changing what we eat to super-food smoothies and fresh foods for us to turn into super-humans? It is. One of the most simple, yet powerful changes you could ever make in your life. Shop at the farmers market. Get fresh vegetables and fruits and make some fresh smoothies. Beans and rice make a complete protein and their cheap! Add some herbs &amp;amp; spices and your off. It&amp;#39;s not a diet. Diet&amp;#39;s don&amp;#39;t work. Notice they have the word &amp;quot;die&amp;quot; in them, &amp;quot;die·t&amp;quot;. Instead do as David Wolfe says and simply add healthy things to what you eat, like a super-food smoothie. There are hundreds of green &amp;amp; super-food smoothie recipies avaiable for free online right now and so there is no excuse for you to start excelling as a super-human. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This is your drive. This is your moment. Don&amp;#39;t be a zombie. Be Superman and Superwoman. Be super. Your worth it.&lt;/strong&gt;&lt;/p&gt;
+&lt;/div&gt;
+	&lt;span class=&quot;social-buttons&quot;&gt;
+		&lt;div class=&quot;google-plus-one-button social-button&quot;&gt;
+	&lt;div class=&quot;g-plusone&quot; data-size=&quot;medium&quot; data-href=&quot;http%3A//super-human.me/posts/are_you_super-human&quot;&gt;&lt;/div&gt;
+	&lt;script&gt;
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = 'https://apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	&lt;/script&gt;
+&lt;/div&gt;
+		&lt;div class=&quot;facebook-like-button social-button&quot;&gt;
+	&lt;iframe src=&quot;//www.facebook.com/plugins/like.php?href=http%3A//super-human.me/posts/are_you_super-human&amp;amp;send=false&amp;amp;layout=button_count&amp;amp;width=450&amp;amp;show_faces=false&amp;amp;font&amp;amp;colorscheme=light&amp;amp;action=like&amp;amp;height=21&amp;amp;appId=183878501765628&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; style=&quot;border:none; overflow:hidden; width:450px; height:21px;&quot; allowTransparency=&quot;true&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+		&lt;div class=&quot;twitter-tweet-button social-button&quot;&gt;
+	&lt;a href=&quot;https://twitter.com/share&quot; class=&quot;twitter-share-button&quot; data-via=&quot;Super_Human_me&quot; data-related=&quot;Super_Human_me&quot;&gt;Tweet&lt;/a&gt;
+	&lt;script&gt;!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=&quot;//platform.twitter.com/widgets.js&quot;;fjs.parentNode.insertBefore(js,fjs);}}(document,&quot;script&quot;,&quot;twitter-wjs&quot;);&lt;/script&gt;
+&lt;/div&gt;
+	&lt;/span&gt;
+	&lt;hr/&gt;
+	&lt;div id=&quot;fb-root&quot;&gt;&lt;/div&gt;
+&lt;script&gt;(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = &quot;//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=266367676718271&quot;;
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));&lt;/script&gt;
+&lt;div class=&quot;fb-comments&quot; data-href=&quot;http://super-human.me/posts/are_you_super-human&quot; data-width=&quot;914&quot; data-num-posts=&quot;10&quot; data-colorscheme=&quot;light&quot; data-order-by=&quot;social&quot;&gt;&lt;/div&gt;
+&lt;/article&gt;
+
+&lt;footer&gt;
+	
+&lt;/footer&gt;
+		&lt;/section&gt;
+		&lt;footer&gt;
+			&lt;span class=&quot;pull-left&quot;&gt;
+				&lt;script data-cfbadgetype=&quot;f&quot; data-cfbadgeskin=&quot;icon&quot; type=&quot;text/javascript&quot;&gt;
+					//&lt;![CDATA[
+					try{window.CloudFlare||function(){var a=window.document,b=a.createElement(&quot;script&quot;),a=a.getElementsByTagName(&quot;script&quot;)[0];window.CloudFlare=[];b.type=&quot;text/javascript&quot;;b.async=!0;b.src=&quot;//ajax.cloudflare.com/cdn-cgi/nexp/cloudflare.js&quot;;a.parentNode.insertBefore(b,a)}(),CloudFlare.push(function(a){a([&quot;cloudflare/badge&quot;])})}catch(e$$5){try{console.error(&quot;CloudFlare badge code could not be loaded. &quot;+e$$5.message)}catch(e$$6){}};
+					//]]&gt;
+				&lt;/script&gt;
+				&amp;copy;2013 Super-Human.me &lt;span class=&quot;mute&quot;&gt;beta&lt;/span&gt;
+			&lt;/span&gt;
+			&lt;span class=&quot;pull-right mdm&quot;&gt;
+				&lt;a href=&quot;http://massdistributionmedia.com/&quot; title=&quot;&lt;strong&gt;Mass Distribution Media&lt;/strong&gt;&quot; id=&quot;mdm-popo&quot; data-html=&quot;true&quot;data-trigger=&quot;hover&quot; data-content=&quot;A web design &amp; development company based in Princeton, New Jersey, USA. Our slogan is 'New Age Web Platforms to Selected Clients.'&quot; data-placement=&quot;top&quot;&gt;&lt;strong&gt;A MDM Company&lt;/strong&gt;&lt;/a&gt;. &lt;br/&gt;
+				&lt;span title=&quot;&lt;i class=icon-info-sign&gt;&lt;/i&gt; &lt;strong&gt;Website Information&lt;/strong&gt;&quot; id=&quot;site_info-popo&quot; data-html=&quot;true&quot; data-trigger=&quot;hover&quot; data-content=&quot;This website is designed, developed and hosted by Mass Distribution Media on a Nodejitsu server. Powered by DocPad.&quot; data-placement=&quot;top&quot;&gt;&lt;i class=&quot;icon-info-sign icon-white&quot;&gt;&lt;/i&gt; Last updated on 2013-08-03T07:20:37.438Z&lt;/span&gt;
+			&lt;/span&gt;
+		&lt;/footer&gt;
+	&lt;/div&gt;&lt;!-- /container --&gt;
+
+	&lt;!-- Scripts --&gt;
+	&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/twitter-bootstrap/js/bootstrap-min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</content>
+		</entry>
+	
+</feed>
