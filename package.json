@@ -1,59 +1,60 @@
 {
-	"name": "super-human.docpad",
-	"version": "0.0.1-25",
-	"private": true,
-	"description": "Super-Human Me. Health blog about super-foods and super-humans.",
-	"homepage": "https://github.com/MassDistributionMedia/super-human.me",
-	"keywords": [
-		"docpad-skeleton",
-		"docpad",
-		"super-huamn",
-		"health",
-		"super-food"
-	],
-	"author": "MDM Inc <mike@mdm.cm> (http://mdm.cm)",
-	"maintainers": [
-		"Michael Mooring <mike@mdm.cm> (http://mdm.cm)"
-	],
-	"contributors": [
-		"Michael Mooring <mike@mdm.cm> (http://mdm.cm)"
-	],
-	"bugs": {
-		"url": "https://github.com/MassDistributionMedia/super-human.me/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/MassDistributionMedia/super-human.me.git"
-	},
-	"engines": {
-		"node": "0.8.x",
-		"npm": "1.1.x",
-		"docpad": "6.x"
-	},
-	"dependencies": {
-		"docpad": "6.x",
-		"docpad-plugin-cleanurls": "2.x",
-		"docpad-plugin-coffeescript": "2.x",
-		"docpad-plugin-eco": "2.x",
-		"docpad-plugin-less": "2.x",
-		"docpad-plugin-marked": "2.x",
-		"docpad-plugin-partials": "2.x",
-		"docpad-plugin-stylus": "2.x",
-		"docpad-plugin-text": "2.x",
-		"docpad-plugin-feedr": "2.x",
-		"docpad-plugin-facebookcomments": "2.x",
-		"docpad-plugin-services": "2.x",
-		"moment": "2.x"
-	},
-	"devDependencies": {
-		"docpad-plugin-livereload": "2.x"
-	},
-	"main": "node_modules/docpad/bin/docpad-server",
-	"subdomain": "super-human-mdm",
-	"domains": [
-		"super-human.me"
-	],
-	"scripts": {
-		"start": "node_modules/docpad/bin/docpad-server"
-	}
+  "name": "super-human.docpad",
+  "version": "0.0.1-28",
+  "private": true,
+  "description": "Super-Human Me. Health blog about super-foods and super-humans.",
+  "homepage": "https://github.com/MassDistributionMedia/super-human.me",
+  "keywords": [
+    "docpad-skeleton",
+    "docpad",
+    "super-huamn",
+    "health",
+    "super-food"
+  ],
+  "author": "MDM Inc <mike@mdm.cm> (http://mdm.cm)",
+  "maintainers": [
+    "Michael Mooring <mike@mdm.cm> (http://mdm.cm)"
+  ],
+  "contributors": [
+    "Michael Mooring <mike@mdm.cm> (http://mdm.cm)"
+  ],
+  "bugs": {
+    "url": "https://github.com/MassDistributionMedia/super-human.me/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MassDistributionMedia/super-human.me.git"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x",
+    "docpad": "6.x"
+  },
+  "dependencies": {
+    "docpad": "~6.47.0",
+    "docpad-plugin-cleanurls": "~2.5.0",
+    "docpad-plugin-coffeescript": "~2.2.2",
+    "docpad-plugin-eco": "~2.0.2",
+    "docpad-plugin-less": "~2.2.0",
+    "docpad-plugin-marked": "~2.1.1",
+    "docpad-plugin-partials": "~2.7.2",
+    "docpad-plugin-stylus": "~2.4.0",
+    "docpad-plugin-text": "~2.2.4",
+    "docpad-plugin-feedr": "~2.5.0",
+    "docpad-plugin-facebookcomments": "~2.0.4",
+    "docpad-plugin-services": "~2.2.6",
+    "moment": "2.x",
+    "docpad-plugin-ghpages": "~2.3.0"
+  },
+  "devDependencies": {
+    "docpad-plugin-livereload": "~2.5.1"
+  },
+  "main": "node_modules/docpad/bin/docpad-server",
+  "subdomain": "super-human-mdm",
+  "domains": [
+    "super-human.me"
+  ],
+  "scripts": {
+    "start": "node_modules/docpad/bin/docpad-server"
+  }
 }
